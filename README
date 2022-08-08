@@ -1,4 +1,5 @@
 A simple calculator using c programming laguage.
+It is using switch case statements.
 First it takes input the operator as character, 
 then takes input the two operands as a float 
 on which the operation is performed and 
